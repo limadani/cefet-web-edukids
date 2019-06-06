@@ -1,3 +1,9 @@
+/*______________________________________________________
+* Centro Federal de Educação Tecnológica de Minas Gerais
+* Programação WEB: Edukids
+* Aluna: Daniele de Souza Lima
+_______________________________________________________*/
+
 /*
  * Você vai precisar alterar este arquivo APENAS para trocar o caminho da
  * imagem dos animais para a imagem com sprites (Exercício 2)
